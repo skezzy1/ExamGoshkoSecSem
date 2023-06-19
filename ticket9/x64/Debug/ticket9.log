@@ -1,0 +1,3 @@
+﻿  ticket9.cpp
+D:\GitHub projects\ExamGoshkoSecSem\ticket9\QTrinomial.h(88): warning C4717: 'FSquare<double>::print': recursive on all control paths, function will cause runtime stack overflow
+  ticket9.vcxproj -> D:\GitHub projects\ExamGoshkoSecSem\ticket9\x64\Debug\ticket9.exe

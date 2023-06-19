@@ -1,0 +1,15 @@
+﻿  ticket8_2023.cpp
+D:\GitHub projects\ExamGoshkoSecSem\ticket8_2023\document.h(13,13): warning C4244: 'initializing': conversion from 'double' to 'NumType', possible loss of data
+          with
+          [
+              NumType=int
+          ]
+D:\GitHub projects\ExamGoshkoSecSem\ticket8_2023\document.h(12,1): message : while compiling class template member function 'TravelDocument<int>::TravelDocument(void)'
+D:\GitHub projects\ExamGoshkoSecSem\ticket8_2023\ticket8_2023.cpp(19,29): message : see reference to function template instantiation 'TravelDocument<int>::TravelDocument(void)' being compiled
+D:\GitHub projects\ExamGoshkoSecSem\ticket8_2023\ticket8_2023.cpp(19,29): message : see reference to class template instantiation 'TravelDocument<int>' being compiled
+D:\GitHub projects\ExamGoshkoSecSem\ticket8_2023\document.h(13,69): warning C4244: 'initializing': conversion from 'double' to 'NumType', possible loss of data
+          with
+          [
+              NumType=int
+          ]
+  ticket8_2023.vcxproj -> D:\GitHub projects\ExamGoshkoSecSem\ticket8_2023\x64\Debug\ticket8_2023.exe
